@@ -1,4 +1,4 @@
-# restaurant_submissions
+# Restaurants App
 
 A new Flutter project.
 
